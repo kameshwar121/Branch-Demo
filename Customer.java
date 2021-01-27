@@ -1,4 +1,9 @@
 public class Customer{
-	private Double salary;
+
+	
+
+	private init cid;
+	private String name;
+private Double salary;
 	
 }
