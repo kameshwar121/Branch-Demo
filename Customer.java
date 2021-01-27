@@ -1,4 +1,4 @@
 public class Customer{
-	private Double salary;
+	private Double csalary;
 	
 }
